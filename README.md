@@ -2,7 +2,15 @@
 
 A simple **Spotify page clone** built using **HTML** and **CSS** as part of my early web development learning journey.
 
-## link of the project 
+A Spotify-inspired UI clone built using HTML and CSS for learning front-end development.
+
+## Live Demo
+
+https://clone-music-app-by-priyanka.netlify.app
+
+## Note
+
+This project was created for educational purposes to practice HTML and CSS. It is not affiliated with or endorsed by Spotify.
 [clone-music-app-by-priyanka.netlify.app]
 
 ## About the Project
@@ -42,7 +50,6 @@ While building this project, I learned how to:
 ## Future Improvements
 
 * Improve responsiveness for all screen sizes
-* Add animations and hover effects
 * Rebuild the project using JavaScript for interactivity
 * Create a more complete Spotify-inspired experience
 
