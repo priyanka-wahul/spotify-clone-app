@@ -2,6 +2,9 @@
 
 A simple **Spotify page clone** built using **HTML** and **CSS** as part of my early web development learning journey.
 
+## link of the project 
+[clone-music-app-by-priyanka.netlify.app]
+
 ## About the Project
 
 This project was created to practice the fundamentals of front-end web development, including:
