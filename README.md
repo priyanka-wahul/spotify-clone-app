@@ -10,8 +10,7 @@ https://clone-music-app-by-priyanka.netlify.app
 
 ## Note
 
-This project was created for educational purposes to practice HTML and CSS. It is not affiliated with or endorsed by Spotify.
-[clone-music-app-by-priyanka.netlify.app]
+This project was created to practice HTML and CSS. It is not affiliated with or endorsed by Spotify.
 
 ## About the Project
 
